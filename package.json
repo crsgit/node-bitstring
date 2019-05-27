@@ -1,0 +1,29 @@
+{
+    "author": {
+        "name": "CharRun",
+        "email": "charrun@hotmail.com"
+    },
+    "bugs": {
+        "url": "https://github.com/crsgit/node-bitstring/issues"
+    },
+    "bundleDependencies": false,
+    "deprecated": false,
+    "description": "a very simple bit operation supply",
+    "homepage": "https://github.com/crgit/node-bitstring#readme",
+    "keywords": [
+        "node-bitstring",
+        "bitstring",
+        "bit",
+        "buffer",
+        "binary-string"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "name": "node-bitstring",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/crsgit/node-bitstring.git"
+    },
+    "scripts": {},
+    "version": "1.0.0"
+}
