@@ -5,7 +5,7 @@ function BitString(data, opts) {
     }
 
     if (Buffer.isBuffer(data)) {
-        this.buffer = Buffer.alloc(data.length, buf.toString("hex"), "hex");
+        this.buffer = Buffer.alloc(data.length, data.toString("hex"), "hex");
     } else if (typeof data === "number" || data === undefined) {
         data = data || 0;
         this.buffer = Buffer.alloc(Math.ceil(data / 8));
