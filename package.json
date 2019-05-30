@@ -9,7 +9,7 @@
     "bundleDependencies": false,
     "deprecated": false,
     "description": "a very simple bit operation supply",
-    "homepage": "https://github.com/crgit/node-bitstring#readme",
+    "homepage": "https://github.com/crsgit/node-bitstring#readme",
     "keywords": [
         "node-bitstring",
         "bitstring",
@@ -25,5 +25,5 @@
         "url": "git+https://github.com/crsgit/node-bitstring.git"
     },
     "scripts": {},
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
